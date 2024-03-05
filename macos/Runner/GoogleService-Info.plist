@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAxrW7a-CGVOS8j76ycN3IkLmEbq7AnG_s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>838607150724</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ggWallet.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>ggwallet-9add6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ggwallet-9add6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:838607150724:ios:02e4c870dda6cd86c72cd1</string>
+</dict>
+</plist>

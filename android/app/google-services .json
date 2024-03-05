@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838607150724",
+    "project_id": "ggwallet-9add6",
+    "storage_bucket": "ggwallet-9add6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838607150724:android:2aa33276b0a83483c72cd1",
+        "android_client_info": {
+          "package_name": "com.globalgarner.ggWallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjaFOzo9daGZrQgPRLYJbTjKK4DLoxzGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
